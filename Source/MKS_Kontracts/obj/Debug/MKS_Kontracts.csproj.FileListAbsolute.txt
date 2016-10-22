@@ -13,3 +13,17 @@ C:\Users\ADMIN\Documents\KSP_DEV\MKS-Kontracts\Source\MKS_Kontracts\bin\Debug\Un
 C:\Users\ADMIN\Documents\KSP_DEV\MKS-Kontracts\Source\MKS_Kontracts\obj\Debug\MKS_Kontracts.csprojResolveAssemblyReference.cache
 C:\Users\ADMIN\Documents\KSP_DEV\MKS-Kontracts\Source\MKS_Kontracts\obj\Debug\MKS_Kontracts.dll
 C:\Users\ADMIN\Documents\KSP_DEV\MKS-Kontracts\Source\MKS_Kontracts\obj\Debug\MKS_Kontracts.pdb
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\MKS_Kontracts.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\MKS_Kontracts.pdb
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\Assembly-CSharp.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\UnityEngine.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\UnityEngine.UI.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\TrackIRUnity.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\KSPAssets.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\Mono.Cecil.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\TDx.TDxInput.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\Mono.Security.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\bin\Debug\UnityEngine.xml
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\obj\Debug\MKS_Kontracts.dll
+C:\Users\ADMIN\Documents\KSP_DEV\MKS_Kontracts\Source\MKS_Kontracts\obj\Debug\MKS_Kontracts.pdb

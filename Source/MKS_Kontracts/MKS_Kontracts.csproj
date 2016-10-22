@@ -55,9 +55,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)..\GameData\MKS-Kontracts\Plugins
-
-</PostBuildEvent>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)..\GameData\MKS_Kontracts\Plugins
+rmdir $(SolutionDir)..\..\dev_ksp_1_2\KSP_win64\GameData\MKS_Kontracts /s /q
+xcopy /s /f /y $(SolutionDir)..\GameData $(SolutionDir)..\..\dev_ksp_1_2\KSP_win64\GameData\</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

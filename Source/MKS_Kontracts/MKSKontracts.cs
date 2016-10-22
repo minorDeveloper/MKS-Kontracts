@@ -7,6 +7,6 @@ namespace MKS_Kontracts
 {
     public class MKSKontracts
     {
-        string cheeeedesey = "";
+        string cheeeeedesey = "";
     }
 }
